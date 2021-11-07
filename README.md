@@ -1,4 +1,4 @@
-# finarkein-website
+# vue-website
 
 ## Project setup
 ```
